@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 95vw;
+}
+
+.navbar{
+    display: flex;
+    height: 68px;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.topleft{
+    width: 50%;
+}
+
+.topright{
+    width: 50%;
+}
+
+.section1{
+    max-height: 155vh;
+    font-size: 1.5rem;
+}
+
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+
+.section2 h1{
+    font-size: 2rem;
+}
+
+.logo{
+    font-size: 2rem;
+}
+
+.dumbell{
+    width: 250px;
+}
+
+.box{
+    margin: 10px 10px;
+    min-width: 18vw;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.h{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box li{
+    margin: 12px 2px;
+}
+
+.image{
+    max-height: 190px;
+}
+
+.img{
+    max-height: 250px;
+}
+
+.img1{
+    max-height: 220px;
+}
